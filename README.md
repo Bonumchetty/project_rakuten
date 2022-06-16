@@ -1,2 +1,2 @@
 # project_rakuten
-Product MultiModal tering
+Product MultiModal tiering
